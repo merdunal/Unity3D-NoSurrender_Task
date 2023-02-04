@@ -4,7 +4,7 @@ Yaptığım oyunun fonksiyonlarından bahsetmek isterim.
 
 Oyunu ilk çalıştırdığınızda karşınıza bir 'Main Menu' ekranı geliyor. Bu ekranda 'Play' ve 'Quit' butonları var. 'Play' butonu asıl oyunu oynadığınız sahneyi çalıştırırken 'Quit' butonu ise uygulamayı kapatıyor.
 
-Oyunu oynadığınız sahnede, oyun başladığı zaman rastgele konumlarda toplanabilir öğreler ve düşmanlar ortaya çıkıyor. Ayrıca kontrol ettiğimiz oyuncunun pozisyonu da tamamen rastgele atanıyor.
+Oyunu oynadığınız sahnede, oyun başladığı zaman rastgele konumlarda toplanabilir öğreler ve düşmanlar ortaya çıkıyor. Ayrıca dokunmatik ekranda Joystick yardımıyla kontrol ettiğimiz oyuncunun pozisyonu da tamamen rastgele atanıyor.
 
 Oyundaki temel amaç düşmanların hepsini platformdan aşağı düşürmek ya da süre bitiminde en çok puana sahip olmak. Düşmanlar oyun başlangıcında kendilerine en yakın olan toplanabilir eşyalara giderek platformadaki eşyaları toplamaya çalışıyor. Daha sonra ana karakteri platformdan aşağı düşürmeye çalışıyorlar.
 
